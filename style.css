@@ -14,16 +14,16 @@ color:#191970;
 font-family:Georgia, "Times New Roman",serif;
 text-align:center;
 }
-p{font-size: .90cm; 
-text-indent: 3cm; 
+p{font-size: .90em; 
+text-indent: 3em; 
 }
 ul{font-weight: bold;
 }
 nav{font-weight: bold;
-font-size:1.25cm;
+font-size:1.25em;
 }
 footer{color:#333333;
-font-size:.74cm;
+font-size:.75em;
 font-style:italic;
 }
 #idrapper{margin-left:auto;
